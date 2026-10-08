@@ -1,0 +1,151 @@
+order_id,order_date,customer_id,product_id,quantity,unit_price,discount_pct,total_amount,payment_method,status
+1001,2026-03-12,11,2,1,2499,0,2499.0,Credit Card,Delivered
+1002,2026-06-01,12,2,1,2499,0,2499.0,UPI,Shipped
+1003,2026-05-10,2,4,2,1999,15,3398.3,UPI,Cancelled
+1004,2026-02-26,4,12,4,1299,0,5196.0,Debit Card,Shipped
+1005,2026-03-29,13,3,4,1499,0,5996.0,Credit Card,Delivered
+1006,2026-01-24,13,6,1,1599,5,1519.05,UPI,Shipped
+1007,2026-01-12,14,6,3,1599,10,4317.3,UPI,Shipped
+1008,2026-06-10,2,9,3,1199,15,3057.45,Debit Card,Cancelled
+1009,2026-01-12,4,12,1,1299,0,1299.0,Debit Card,Delivered
+1010,2026-04-08,14,4,1,1999,5,1899.05,Cash on Delivery,Delivered
+1011,2026-02-23,3,6,3,1599,15,4077.45,UPI,Delivered
+1012,2026-02-11,11,3,2,1499,5,2848.1,Cash on Delivery,Shipped
+1013,2026-06-25,15,11,2,499,0,998.0,UPI,Delivered
+1014,2026-04-13,14,1,3,799,0,2397.0,UPI,Delivered
+1015,2026-02-24,15,10,3,3499,10,9447.3,Cash on Delivery,Shipped
+1016,2026-03-05,3,5,2,2999,15,5098.3,Debit Card,Cancelled
+1017,2026-04-03,7,10,4,3499,15,11896.6,Credit Card,Delivered
+1018,2026-01-29,8,2,1,2499,10,2249.1,Credit Card,Delivered
+1019,2026-04-08,10,2,4,2499,15,8496.6,Cash on Delivery,Cancelled
+1020,2026-06-24,5,9,1,1199,5,1139.05,Debit Card,Delivered
+1021,2026-02-10,2,5,4,2999,5,11396.2,UPI,Shipped
+1022,2026-06-10,9,3,1,1499,0,1499.0,Credit Card,Delivered
+1023,2026-06-03,6,3,1,1499,0,1499.0,Cash on Delivery,Delivered
+1024,2026-03-03,2,6,3,1599,15,4077.45,Credit Card,Delivered
+1025,2026-01-18,2,2,4,2499,0,9996.0,Credit Card,Cancelled
+1026,2026-03-09,11,8,2,699,0,1398.0,Cash on Delivery,Cancelled
+1027,2026-03-21,15,9,2,1199,10,2158.2,Debit Card,Shipped
+1028,2026-01-31,15,9,4,1199,0,4796.0,Credit Card,Delivered
+1029,2026-05-31,6,1,2,799,0,1598.0,UPI,Delivered
+1030,2026-02-28,12,11,1,499,5,474.05,UPI,Delivered
+1031,2026-03-13,2,9,2,1199,15,2038.3,Credit Card,Shipped
+1032,2026-03-04,3,12,4,1299,0,5196.0,Cash on Delivery,Shipped
+1033,2026-04-01,2,2,4,2499,10,8996.4,Cash on Delivery,Shipped
+1034,2026-06-22,14,12,1,1299,10,1169.1,UPI,Delivered
+1035,2026-03-05,12,6,1,1599,15,1359.15,Credit Card,Delivered
+1036,2026-02-16,8,3,4,1499,0,5996.0,Cash on Delivery,Delivered
+1037,2026-05-21,14,2,4,2499,15,8496.6,UPI,Delivered
+1038,2026-03-02,14,1,1,799,10,719.1,Cash on Delivery,Delivered
+1039,2026-01-16,8,4,4,1999,0,7996.0,Cash on Delivery,Delivered
+1040,2026-03-15,7,5,4,2999,0,11996.0,Cash on Delivery,Shipped
+1041,2026-01-15,4,5,2,2999,5,5698.1,UPI,Cancelled
+1042,2026-05-09,1,1,4,799,0,3196.0,Credit Card,Cancelled
+1043,2026-01-18,9,2,2,2499,0,4998.0,UPI,Cancelled
+1044,2026-05-29,7,2,2,2499,15,4248.3,UPI,Cancelled
+1045,2026-03-08,2,7,3,3999,0,11997.0,Debit Card,Delivered
+1046,2026-06-21,5,7,2,3999,5,7598.1,Cash on Delivery,Delivered
+1047,2026-04-28,15,2,1,2499,0,2499.0,UPI,Cancelled
+1048,2026-02-03,9,4,3,1999,0,5997.0,UPI,Delivered
+1049,2026-04-23,6,5,2,2999,15,5098.3,Debit Card,Cancelled
+1050,2026-06-20,13,11,1,499,0,499.0,Debit Card,Cancelled
+1051,2026-01-30,15,3,3,1499,5,4272.15,Credit Card,Delivered
+1052,2026-03-29,5,10,2,3499,15,5948.3,Debit Card,Delivered
+1053,2026-01-24,8,5,1,2999,0,2999.0,Debit Card,Shipped
+1054,2026-06-13,1,6,2,1599,10,2878.2,Credit Card,Delivered
+1055,2026-05-24,9,12,4,1299,0,5196.0,UPI,Delivered
+1056,2026-05-20,15,12,2,1299,15,2208.3,Debit Card,Delivered
+1057,2026-02-02,9,3,4,1499,5,5696.2,Debit Card,Delivered
+1058,2026-02-23,15,1,3,799,5,2277.15,UPI,Delivered
+1059,2026-06-08,13,9,4,1199,0,4796.0,Credit Card,Delivered
+1060,2026-01-07,13,3,4,1499,10,5396.4,Debit Card,Delivered
+1061,2026-03-10,13,11,2,499,10,898.2,UPI,Delivered
+1062,2026-02-26,14,1,4,799,5,3036.2,Cash on Delivery,Delivered
+1063,2026-01-07,5,4,2,1999,5,3798.1,Cash on Delivery,Delivered
+1064,2026-03-31,5,2,3,2499,15,6372.45,Cash on Delivery,Cancelled
+1065,2026-03-08,6,1,1,799,0,799.0,Debit Card,Delivered
+1066,2026-03-30,2,10,4,3499,15,11896.6,Cash on Delivery,Delivered
+1067,2026-05-28,9,2,4,2499,0,9996.0,Debit Card,Delivered
+1068,2026-05-14,12,7,1,3999,5,3799.05,Credit Card,Cancelled
+1069,2026-06-09,7,2,3,2499,5,7122.15,UPI,Delivered
+1070,2026-03-25,9,5,4,2999,15,10196.6,Debit Card,Shipped
+1071,2026-06-20,3,4,4,1999,15,6796.6,Credit Card,Shipped
+1072,2026-05-21,10,5,4,2999,5,11396.2,Debit Card,Delivered
+1073,2026-04-30,4,7,3,3999,0,11997.0,Cash on Delivery,Shipped
+1074,2026-06-18,9,8,2,699,15,1188.3,Debit Card,Delivered
+1075,2026-01-24,11,11,3,499,0,1497.0,Debit Card,Delivered
+1076,2026-01-07,13,4,2,1999,10,3598.2,Credit Card,Delivered
+1077,2026-04-17,10,2,4,2499,10,8996.4,Credit Card,Cancelled
+1078,2026-02-07,8,7,2,3999,10,7198.2,UPI,Delivered
+1079,2026-01-13,4,3,4,1499,0,5996.0,Credit Card,Cancelled
+1080,2026-06-20,8,3,4,1499,10,5396.4,Debit Card,Cancelled
+1081,2026-05-21,10,12,4,1299,10,4676.4,Credit Card,Shipped
+1082,2026-06-13,8,5,2,2999,0,5998.0,Cash on Delivery,Delivered
+1083,2026-03-15,5,8,1,699,5,664.05,Debit Card,Delivered
+1084,2026-02-05,6,9,1,1199,10,1079.1,Credit Card,Delivered
+1085,2026-01-17,12,3,2,1499,5,2848.1,Cash on Delivery,Shipped
+1086,2026-01-16,9,8,4,699,10,2516.4,Cash on Delivery,Delivered
+1087,2026-05-28,15,10,1,3499,0,3499.0,Cash on Delivery,Shipped
+1088,2026-04-18,6,5,4,2999,10,10796.4,Credit Card,Cancelled
+1089,2026-05-05,4,5,4,2999,5,11396.2,Cash on Delivery,Delivered
+1090,2026-02-12,11,11,4,499,15,1696.6,Credit Card,Shipped
+1091,2026-06-01,9,1,4,799,0,3196.0,UPI,Cancelled
+1092,2026-04-29,11,7,2,3999,5,7598.1,UPI,Delivered
+1093,2026-04-27,7,6,2,1599,10,2878.2,Debit Card,Delivered
+1094,2026-01-21,5,7,3,3999,15,10197.45,UPI,Shipped
+1095,2026-06-16,1,6,2,1599,0,3198.0,UPI,Delivered
+1096,2026-06-09,4,4,1,1999,0,1999.0,Credit Card,Delivered
+1097,2026-05-25,8,11,1,499,5,474.05,Cash on Delivery,Delivered
+1098,2026-06-05,13,6,2,1599,0,3198.0,UPI,Cancelled
+1099,2026-03-21,5,2,1,2499,10,2249.1,Cash on Delivery,Cancelled
+1100,2026-06-01,12,4,1,1999,5,1899.05,UPI,Delivered
+1101,2026-05-25,14,11,1,499,15,424.15,Debit Card,Delivered
+1102,2026-01-18,7,11,3,499,0,1497.0,Debit Card,Cancelled
+1103,2026-01-28,14,7,4,3999,10,14396.4,Debit Card,Shipped
+1104,2026-02-15,12,3,4,1499,15,5096.6,Debit Card,Cancelled
+1105,2026-04-30,13,9,4,1199,5,4556.2,Debit Card,Shipped
+1106,2026-03-13,14,4,1,1999,10,1799.1,Credit Card,Shipped
+1107,2026-03-28,10,10,4,3499,5,13296.2,Cash on Delivery,Delivered
+1108,2026-04-01,3,8,2,699,5,1328.1,Debit Card,Delivered
+1109,2026-05-23,15,10,3,3499,0,10497.0,Credit Card,Delivered
+1110,2026-05-06,4,12,4,1299,10,4676.4,Credit Card,Cancelled
+1111,2026-04-25,11,12,4,1299,5,4936.2,UPI,Delivered
+1112,2026-03-20,4,7,2,3999,10,7198.2,Debit Card,Cancelled
+1113,2026-04-19,9,9,3,1199,5,3417.15,Debit Card,Cancelled
+1114,2026-03-20,12,8,3,699,0,2097.0,Credit Card,Delivered
+1115,2026-01-31,12,4,3,1999,0,5997.0,Credit Card,Cancelled
+1116,2026-03-12,4,12,4,1299,0,5196.0,Debit Card,Cancelled
+1117,2026-02-28,14,4,3,1999,5,5697.15,Credit Card,Delivered
+1118,2026-03-12,1,12,2,1299,15,2208.3,UPI,Delivered
+1119,2026-06-13,5,12,2,1299,0,2598.0,UPI,Shipped
+1120,2026-05-03,10,5,4,2999,0,11996.0,Debit Card,Shipped
+1121,2026-01-30,1,5,4,2999,10,10796.4,Cash on Delivery,Delivered
+1122,2026-02-08,2,10,1,3499,0,3499.0,Debit Card,Delivered
+1123,2026-06-05,4,2,4,2499,15,8496.6,Credit Card,Cancelled
+1124,2026-03-18,7,8,4,699,5,2656.2,Cash on Delivery,Cancelled
+1125,2026-06-06,10,10,1,3499,0,3499.0,Credit Card,Delivered
+1126,2026-02-10,5,11,1,499,15,424.15,Credit Card,Delivered
+1127,2026-04-15,2,3,1,1499,5,1424.05,Cash on Delivery,Shipped
+1128,2026-06-30,1,4,3,1999,0,5997.0,Cash on Delivery,Delivered
+1129,2026-06-10,11,4,3,1999,10,5397.3,Credit Card,Cancelled
+1130,2026-06-15,2,9,2,1199,0,2398.0,Debit Card,Delivered
+1131,2026-03-20,2,1,2,799,10,1438.2,Debit Card,Cancelled
+1132,2026-06-29,2,8,3,699,15,1782.45,Debit Card,Shipped
+1133,2026-01-21,9,8,4,699,10,2516.4,UPI,Cancelled
+1134,2026-01-07,12,6,3,1599,15,4077.45,Credit Card,Delivered
+1135,2026-05-28,10,1,3,799,10,2157.3,Credit Card,Delivered
+1136,2026-03-13,9,11,4,499,10,1796.4,Cash on Delivery,Delivered
+1137,2026-04-15,2,8,3,699,0,2097.0,Debit Card,Delivered
+1138,2026-04-16,14,3,3,1499,10,4047.3,Debit Card,Shipped
+1139,2026-04-27,14,9,1,1199,5,1139.05,Debit Card,Delivered
+1140,2026-05-12,6,2,4,2499,10,8996.4,Cash on Delivery,Delivered
+1141,2026-06-09,1,4,3,1999,0,5997.0,Cash on Delivery,Shipped
+1142,2026-03-15,4,5,2,2999,0,5998.0,Cash on Delivery,Shipped
+1143,2026-07-01,1,11,2,499,15,848.3,Debit Card,Delivered
+1144,2026-01-24,1,9,4,1199,10,4316.4,UPI,Delivered
+1145,2026-05-08,2,11,2,499,10,898.2,Debit Card,Delivered
+1146,2026-03-04,14,8,4,699,10,2516.4,Credit Card,Shipped
+1147,2026-01-18,4,10,2,3499,5,6648.1,Cash on Delivery,Delivered
+1148,2026-01-01,15,9,3,1199,15,3057.45,Debit Card,Delivered
+1149,2026-02-08,10,11,4,499,5,1896.2,Cash on Delivery,Shipped
+1150,2026-04-27,6,9,4,1199,0,4796.0,Credit Card,Delivered
